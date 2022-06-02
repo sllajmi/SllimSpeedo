@@ -2,4 +2,4 @@
 Simple speedometer for FiveM. KM/H, MPH
 
 # Support 
-https://discord.gg/q3beKtvR
+https://discord.gg/yr4dyT3c
